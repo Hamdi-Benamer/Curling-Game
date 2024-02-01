@@ -10,4 +10,3 @@ LAUNCH INSTRUCTIONS: node server.js
 TESTING INSTRUCTIONS: http://localhost:3000/curling.html
 
 
-YouTube VIDEO LINK : https://youtu.be/RvZMtK1Pv-0
